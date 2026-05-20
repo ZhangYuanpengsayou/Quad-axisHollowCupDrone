@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "inf_joystick.h": "c",
+        "com_types.h": "c",
+        "freertos_task.h": "c",
+        "task.h": "c",
+        "freertos.h": "c",
+        "si24r1.h": "c",
+        "app_data_process.h": "c",
+        "inf_key.h": "c",
+        "app_comm_data.h": "c",
+        "inf_font.h": "c",
+        "inf_oled.h": "c",
+        "app_display.h": "c"
+    }
+}
